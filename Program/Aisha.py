@@ -1,0 +1,1 @@
+print("Aisha Patricia Sekar Ayu-1103223067")
