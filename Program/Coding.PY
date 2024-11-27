@@ -1,5 +1,5 @@
 print("Pemrograman Lanjut")
 print("Eggy Alfan Ananta-1103223194")
-print("Aisha Patricia")
+print("Aisha Patricia-1103223067")
 print("Velma")
 print("Faza")
