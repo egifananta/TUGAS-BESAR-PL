@@ -1,4 +1,4 @@
-print("Pemrograman Lanjut")
+print("MK Pemrograman Lanjut")
 print("Eggy Alfan Ananta-1103223194")
 print("Aisha Patricia-1103223067")
 print("Velma Beryl Anzalia-1103223038")
