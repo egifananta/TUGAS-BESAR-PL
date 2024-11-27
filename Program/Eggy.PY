@@ -1,5 +1,3 @@
 print("Pemrograman Lanjut")
 print("Eggy Alfan Ananta-1103223194")
-print("Aisha Patricia Sekar Ayu-1103223067")
-print("Velma")
-print("Faza Salsabila Rahayu Wilujeng-1103223008")
+
